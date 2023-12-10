@@ -1,0 +1,21 @@
+
+.error-message{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-color: grey;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    color: rgb(109, 29, 29);
+    align-items: center;
+    
+}
+.error-message p{
+    font-size: 1.5rem;
+}
+.spinner-div{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}

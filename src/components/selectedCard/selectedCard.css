@@ -1,0 +1,11 @@
+.plus-minus{
+    width: 2rem;
+    height: 2rem;
+    border: 1.5px solid black;
+}
+.selected-img-div{
+    width: 12rem;
+}
+.selected-img-div img{
+    mix-blend-mode: multiply;
+}

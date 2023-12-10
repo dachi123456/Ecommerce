@@ -1,0 +1,10 @@
+.search{
+    position: relative;
+    margin-top: 5rem;
+    z-index: 1;
+    border: none;
+}
+.form-control {
+    height: 3rem;
+    font-size: 1.2rem;
+}

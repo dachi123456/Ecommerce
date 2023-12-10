@@ -1,0 +1,18 @@
+.details-img-div{
+   width:12rem;
+   /* border: 1px solid grey; */
+   padding: 0;
+   
+}
+.details-img-div img{
+    width: 100%;
+    mix-blend-mode:multiply;
+}
+/* .details-cont{
+    margin-top: 8rem;
+    
+} */
+.details-cont h5{
+    font-weight: 300;
+    font-size: 1.5rem;
+}
